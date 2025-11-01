@@ -25,7 +25,3 @@ C:\Users\Mohamed\livdet2015_crossmatch\
 
 
 
-////
-The MobileNet-v3 CNN model takes around 6-8 hours to converge using a single Nvidia GTX
-1080 Ti GPU with approximately 96; 000 local patches from 2; 000 fingerprint images (2; 000
-images  46 patches/fingerprint image) in the training set.
